@@ -1,0 +1,33 @@
+[
+  {
+    "id": "interlagos",
+    "name": "Autodromo Jose Carlos Pace - Interlagos",
+    "country": "BR",
+    "city": "Sao Paulo",
+    "sfLat": -23.7038,
+    "sfLon": -46.6997,
+    "length_km": 4.309,
+    "turns": 15,
+    "grade": "FIA G1"
+  },
+  {
+    "id": "buenos_aires",
+    "name": "Autodromo Oscar y Juan Galvez",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "sfLat": -34.6943,
+    "sfLon": -58.4611,
+    "length_km": 5.0,
+    "turns": 15
+  },
+  {
+    "id": "velocitta",
+    "name": "Velocitta",
+    "country": "BR",
+    "city": "Mogi Guacu",
+    "sfLat": -22.397,
+    "sfLon": -47.072,
+    "length_km": 3.493,
+    "turns": 14
+  }
+]

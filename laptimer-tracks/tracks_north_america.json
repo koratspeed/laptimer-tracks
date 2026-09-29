@@ -1,0 +1,95 @@
+[
+  {
+    "id": "cota",
+    "name": "Circuit of the Americas",
+    "country": "US",
+    "city": "Austin",
+    "sfLat": 30.1328,
+    "sfLon": -97.6411,
+    "length_km": 5.513,
+    "turns": 20,
+    "grade": "FIA G1"
+  },
+  {
+    "id": "laguna_seca",
+    "name": "WeatherTech Raceway Laguna Seca",
+    "country": "US",
+    "city": "Monterey",
+    "sfLat": 36.584,
+    "sfLon": -121.757,
+    "length_km": 3.602,
+    "turns": 11
+  },
+  {
+    "id": "daytona_road",
+    "name": "Daytona Road Course",
+    "country": "US",
+    "city": "Daytona",
+    "sfLat": 29.1858,
+    "sfLon": -81.0705,
+    "length_km": 5.728,
+    "turns": 12
+  },
+  {
+    "id": "indianapolis_gp",
+    "name": "Indianapolis Motor Speedway Road",
+    "country": "US",
+    "city": "Indianapolis",
+    "sfLat": 39.795,
+    "sfLon": -86.235,
+    "length_km": 4.192,
+    "turns": 14,
+    "grade": "FIA G1"
+  },
+  {
+    "id": "sebring",
+    "name": "Sebring International Raceway",
+    "country": "US",
+    "city": "Sebring",
+    "sfLat": 27.4547,
+    "sfLon": -81.3483,
+    "length_km": 6.02,
+    "turns": 17
+  },
+  {
+    "id": "road_atlanta",
+    "name": "Road Atlanta",
+    "country": "US",
+    "city": "Braselton",
+    "sfLat": 34.1467,
+    "sfLon": -83.8176,
+    "length_km": 4.088,
+    "turns": 12
+  },
+  {
+    "id": "watkins_glen",
+    "name": "Watkins Glen International",
+    "country": "US",
+    "city": "Watkins Glen",
+    "sfLat": 42.3369,
+    "sfLon": -76.9272,
+    "length_km": 5.552,
+    "turns": 11
+  },
+  {
+    "id": "mosport",
+    "name": "Canadian Tire Motorsport Park",
+    "country": "CA",
+    "city": "Bowmanville",
+    "sfLat": 44.0519,
+    "sfLon": -78.6758,
+    "length_km": 3.957,
+    "turns": 10
+  },
+  {
+    "id": "montreal",
+    "name": "Circuit Gilles Villeneuve",
+    "country": "CA",
+    "city": "Montreal",
+    "sfLat": 45.5,
+    "sfLon": -73.5228,
+    "length_km": 4.361,
+    "turns": 14,
+    "grade": "FIA G1"
+  }
+]

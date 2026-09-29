@@ -1,0 +1,43 @@
+[
+  {
+    "id": "bathurst",
+    "name": "Mount Panorama - Bathurst",
+    "country": "AU",
+    "city": "Bathurst",
+    "sfLat": -33.4472,
+    "sfLon": 149.5567,
+    "length_km": 6.213,
+    "turns": 23
+  },
+  {
+    "id": "phillip_island",
+    "name": "Phillip Island GP Circuit",
+    "country": "AU",
+    "city": "Phillip Island",
+    "sfLat": -38.5046,
+    "sfLon": 145.2323,
+    "length_km": 4.445,
+    "turns": 12,
+    "grade": "FIA G2"
+  },
+  {
+    "id": "sydney_motorsport",
+    "name": "Sydney Motorsport Park",
+    "country": "AU",
+    "city": "Eastern Creek",
+    "sfLat": -33.8042,
+    "sfLon": 150.8697,
+    "length_km": 3.93,
+    "turns": 12
+  },
+  {
+    "id": "hampton_downs",
+    "name": "Hampton Downs",
+    "country": "NZ",
+    "city": "Hampton Downs",
+    "sfLat": -37.352,
+    "sfLon": 175.049,
+    "length_km": 4.0,
+    "turns": 10
+  }
+]

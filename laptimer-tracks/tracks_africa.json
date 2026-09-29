@@ -1,0 +1,23 @@
+[
+  {
+    "id": "kyalami",
+    "name": "Kyalami Grand Prix Circuit",
+    "country": "ZA",
+    "city": "Midrand",
+    "sfLat": -25.9975,
+    "sfLon": 28.0736,
+    "length_km": 4.529,
+    "turns": 16,
+    "grade": "FIA G2"
+  },
+  {
+    "id": "marrakech",
+    "name": "Circuit International Moulay El Hassan - Marrakech",
+    "country": "MA",
+    "city": "Marrakech",
+    "sfLat": 31.62,
+    "sfLon": -7.989,
+    "length_km": 4.54,
+    "turns": 15
+  }
+]
